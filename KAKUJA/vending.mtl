@@ -1,0 +1,82 @@
+newmtl Snacks1Mtl
+Material Color
+Ka 0.373615 0.368591 0.383775
+Kd 0.373615 0.368591 0.383775
+Ks 0.0322335 0.0318 0.03311 
+
+d 1
+
+Ns 255
+
+map_Ka Snacks1_diff.png
+map_Kd Snacks1_diff.png
+map_d Snacks1_diff.png
+
+map_Bump Snacks1_nmap.png
+
+map_Ns Snacks1_spec.png
+
+newmtl Light1Mtl
+Material Color
+Ka 0.373615 0.368591 0.383775
+Kd 0.373615 0.368591 0.383775
+Ks 0.0234425 0.0231273 0.02408 
+
+d 1
+
+Ns 0
+
+newmtl Glass1Mtl
+Material Color
+Ka 0.373615 0.368591 0.383775
+Kd 0.373615 0.368591 0.383775
+Ks 0.373615 0.368591 0.383775 
+
+d 0.552941
+
+Ns 0
+
+map_Ka Glass1_diff.png
+map_Kd Glass1_diff.png
+map_d Glass1_diff.png
+
+map_Bump Glass1_nmap.png
+
+map_Ns Glass1_spec.png
+
+newmtl Int1Mtl
+Material Color
+Ka 0.373615 0.368591 0.383775
+Kd 0.373615 0.368591 0.383775
+Ks 0.0322335 0.0318 0.03311 
+
+d 1
+
+Ns 255
+
+map_Ka Int1_diff.png
+map_Kd Int1_diff.png
+map_d Int1_diff.png
+
+map_Bump Int1_nmap.png
+
+map_Ns Int1_spec.png
+
+newmtl Body1Mtl
+Material Color
+Ka 0.373615 0.368591 0.383775
+Kd 0.373615 0.368591 0.383775
+Ks 0.0322335 0.0318 0.03311 
+
+d 1
+
+Ns 255
+
+map_Ka Body1_diff.png
+map_Kd Body1_diff.png
+map_d Body1_diff.png
+
+map_Bump Body1_nmap.png
+
+map_Ns Body1_spec.png
+
